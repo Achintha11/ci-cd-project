@@ -7,7 +7,7 @@ app.use(express.json());
 
 // Simple route for the root URL
 app.get("/", (req, res) => {
-  res.send("Hello, World!");
+  res.send("Hello, huttoooo deploy kara backend ekaa!");
 });
 
 // Another route for `/about`
